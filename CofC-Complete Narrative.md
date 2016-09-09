@@ -80,7 +80,7 @@ Promote platforms, apps, processes, and tools that encourage cross-boundary beha
 [A Model of Change for Institutional Capacity Building: Lessons from the Innovative Agricultural Research Initiative (iAGRI)][22]  
 
 ### **USAID**
- - Lessons Learned from Current Funded Phase
+- Lessons Learned from Current Funded Phase
 - RFP Specifications for Second Phase
 - Proposal Submission Selection Criteria
 
@@ -122,12 +122,12 @@ Provide coaching to directly support the goals of IPA and align with the role of
 ### **Office of International Programs in Agriculture (IPA)**
 
 #### **Strategic Orientation / Strategic Opportunities**
- - Exploit confirmed areas of interest by public, private, and voluntary sector investors / sponsors / collaborators / partners for development, submission, and administration of high-potential project proposals
+- Exploit confirmed areas of interest by public, private, and voluntary sector investors / sponsors / collaborators / partners for development, submission, and administration of high-potential project proposals
 - Establish “international programs” as a **trusted convening agent** among intra / intercollegiate and inter-institutional affiliates
 - Build faculty (college and university) capacity for internationalization
 
 #### **Staffing**
- - Initiate changes in IPA administrative structure that increase the capacity and capability of IPA to take advantage of opportunities presented by having a deeper presence on campus.
+- Initiate changes in IPA administrative structure that increase the capacity and capability of IPA to take advantage of opportunities presented by having a deeper presence on campus.
 - Develop hiring strategies and outline key points to include in draft descriptions for IPA / iAGRI administrative positions.
 - Establish connections with P2P Foundation founder, Michel Bauwens, and core team members as potential resources in searches for candidates with experience in innovative HICD models who could fill administrative positions within IPA, iAGRI, and future grant / contract funded programs.
 

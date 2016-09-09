@@ -136,7 +136,7 @@ Continue development and implementation of an organization design /institutional
 ##### **Communication Platform**
 Establish an online communication forum (GAVNet) using the Slack platform so that participants can spawn a diverse range of “Conversations That Matter” about individual and collective experiences in the field of international development and lead to collaborative projects in the search for “Ways That Work” that can inform and drive “Changes That Sustain” within the formal systems of participating organizations and to better support IPA, overall, and iAGRI, in particular, as it enters its final full year of funding with the possibility for second phase funding.  
 The GAVNet platform facilitates the following activities:
- - Identify projects for products, services, infrastructure, and technologies that could appeal, commercially, within iAGRI's purview
+- Identify projects for products, services, infrastructure, and technologies that could appeal, commercially, within iAGRI's purview
 - Develop open source systems, processes, and tools that would have relevance in an iAGRI context both in terms of usefulness, but for students and faculty at SUA to be involved in their development and deployment
 - Enhance the reputation of IPA and expand the base of on-campus support for its programs, like iAGRI, as the administrative structure for the CFAES and the OSU continued to undergo significant changes in key personnel, roles and responsibilities, campus location, organizational centrality, and leadership respect.
 

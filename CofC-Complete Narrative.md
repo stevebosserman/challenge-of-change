@@ -79,10 +79,10 @@ Promote platforms, apps, processes, and tools that encourage cross-boundary beha
 ## **5) Institutional Change Example**  
 [A Model of Change for Institutional Capacity Building: Lessons from the Innovative Agricultural Research Initiative (iAGRI)][22]  
 
-### **USAID**  
-1. Lessons Learned from Current Funded Phase  
-2. RFP Specifications for Second Phase  
-3. Proposal Submission Selection Criteria
+### **USAID**
+ - Lessons Learned from Current Funded Phase
+- RFP Specifications for Second Phase
+- Proposal Submission Selection Criteria
 
 ### Consulting Services Scope of Work
 _Communications:_ Broker connections, post to social media, and develop presentations that strengthen leadership development, change management / institutional change, and Innovation Portfolio / solution development adoption underway at Sokoine University of Agriculture (SUA).  

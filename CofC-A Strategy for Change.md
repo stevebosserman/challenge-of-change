@@ -1,11 +1,11 @@
 # The Challenge of Change: Engaging Public Universities to added the World - A Strategy for Change
 
-The very wording of the title - "The Challenge of Change" - demands an effective change strategy be followed in the pursuit of success.  The outline below presents a way to envision such a process.  The accompanying [mind map](https://github.com/stevebosserman/challenge-of-change/blob/master/Enabling%20Environment%20for%20Access%20and%20Solutions.pdf "EEAS MindNote mind map") provides a visual copy of the points described in the outline and illustrates some of the key relationships among them.
+The very wording of the title - "The Challenge of Change" - demands an effective change strategy be followed in the pursuit of success.  The outline at this [link](https://github.com/stevebosserman/challenge-of-change/blob/master/CofC-Complete%20Narrative.md) presents a way to envision such a process.  The [mind map](https://github.com/stevebosserman/challenge-of-change/blob/master/Enabling%20Environment%20for%20Access%20and%20Solutions.pdf "EEAS MindNote mind map") accompanying the outline provides a visual copy of the points described in the text and illustrates some of the key relationships among them.
 
 Furthermore, the knowledge transfer associated with the subtitle, "Engaging Public Universities in Feeding the World", possesses an expansiveness of scope and degree of complexity that, by default, imposes certain "rules" that bound broad-based systems change strategies.  Among these are:
  1. ["If you want to build change, you have to start everywhere at once." - Margaret Mead](http://www.joe.org/joe/1996october/a1.php "Margaret Mead start everywhere")
- 2. [Systems change involves the lives of everyone in the system undergoing that change.](http://www.florida-rti.org/educatorresources/mtss_book_implcomp_012612.pdf "Systems change involves everyone")
- 3. [Change...one conversation at a time](http://www.groupjazz.com/documents/ODP-V45No2-Kimball.pdf "changing the organization one conversation at a time")
+ 2. [Systems change involves the lives of everyone in the system undergoing that change.](http://www.florida-rti.org/educatorresources/mtss_book_implcomp_012612.pdf "Systems change involves everyone")(page 13)
+ 3. [Changing...one conversation at a time](http://www.groupjazz.com/documents/ODP-V45No2-Kimball.pdf "changing the organization one conversation at a time")
  4. ["For every complex problem there is an answer that is clear, simple and wrong.” -H.L.Mencken](http://www.oecd.org/officialdocuments/publicdisplaydocumentpdf/?cote=EDU/CERI/CD/RD(2013)10&docLanguage=En "The simple, the complicated and the complex")
  5. [Open everything, commons for all](http://commonstransition.org/wp-content/uploads/2014/11/Commons-Transition_-Policy-Proposals-for-a-P2P-Foundation.pdf "Common transition Michel bauwens")
 

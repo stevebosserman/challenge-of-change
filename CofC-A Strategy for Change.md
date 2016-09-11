@@ -1,4 +1,4 @@
-# The Challenge of Change: Engaging Public Universities to added the World - A Strategy for Change
+# The Challenge of Change: Engaging Public Universities to Feed the World - A Strategy for Change
 
 The very wording of the title - "The Challenge of Change" - demands an effective change strategy be followed in the pursuit of success.  The outline at this [link](https://github.com/stevebosserman/challenge-of-change/blob/master/CofC-Complete%20Narrative.md) presents a way to envision such a process.  The [mind map](https://github.com/stevebosserman/challenge-of-change/blob/master/Enabling%20Environment%20for%20Access%20and%20Solutions.pdf "EEAS MindNote mind map") accompanying the outline provides a visual copy of the points described in the text and illustrates some of the key relationships among them.
 

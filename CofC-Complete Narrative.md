@@ -87,7 +87,7 @@ Promote platforms, apps, processes, and tools that encourage cross-boundary beha
 ### Consulting Services Scope of Work
 _Communications:_ Broker connections, post to social media, and develop presentations that strengthen leadership development, change management / institutional change, and Innovation Portfolio / solution development adoption underway at Sokoine University of Agriculture (SUA).  
 
-Develop communication objectives and identify the strategic orientation for the Office of International Programs in Agriculture (IPA) within the College of Food, Agricultural and Environmental Sciences (CFAES) at The Ohio State University (OSU) in relation to iAGRI project activities.
+Develop communication objectives and identify the strategic orientation for International Programs in Agriculture (IPA) within the College of Food, Agricultural and Environmental Sciences (CFAES) at The Ohio State University (OSU) in relation to iAGRI project activities.
 
 _Training:_ Develop materials and co-deliver as needed workshops and experiential learning forums as part of leadership development, change management / institutional change, and Innovation Portfolio / solution development adoption
 
@@ -115,11 +115,11 @@ Provide coaching to directly support the goals of IPA and align with the role of
 ![][image-14]
 
 ### **iAGRI Innovation Portfolio - Expanded**
-- Expand capability of iAGRI Innovation Portfolio by leveraging concurrent development of a “commercial innovation portfolio” with Aimpoint Research that could handle proprietary and closed projects within a university setting where protection and licensure of intellectual property has a high priority.
-- Coordinate with FABE administration to ensure OSU “partnership” in development of the platform and takes advantage of departmental experience with the iAGRI Innovation Portfolio through FABE-related projects posted to it and two administrative visits to the iAGRI office and SUA campus in Morogoro during FY2014 and FY2015
-- Expand capability of iAGRI Innovation Portfolio by leveraging concurrent development of an “open value network” approach as exemplified by the SENSORICA Open Value Network (OVN) - ACES/CAKE, and the application of Creative Commons licensure to the List of Projects that comprise the SENSORICA portfolio and honor the intent of the innovator in how to use project results.
+- Expand capability of iAGRI Innovation Portfolio by leveraging concurrent development of a “commercial innovation portfolio” that could handle proprietary and closed projects within a university setting where protection and licensure of intellectual property has a high priority.
+- Coordinate with [FABE](http://fabe.osu.edu/) administration to ensure OSU “partnership” in development of the platform and takes advantage of departmental experience with the iAGRI Innovation Portfolio through FABE-related projects posted to it and two administrative visits to the iAGRI office and SUA campus in Morogoro during FY2014 and FY2015
+- Expand capability of iAGRI Innovation Portfolio by leveraging concurrent development of an “open value network” approach as exemplified by the [SENSORICA Open Value Network (OVN)](http://www.sensorica.co/) - [ACES/CAKE](http://aces-cake.org/cake-english-homepage/), and the application of [Creative Commons](https://creativecommons.org/licenses/) licensure to the List of Projects that comprise the SENSORICA portfolio and honor the intent of the innovator in how to use project results.
 
-### **Office of International Programs in Agriculture (IPA)**
+### **[International Programs in Agriculture (IPA)](http://ipa.osu.edu/)**
 
 #### **Strategic Orientation / Strategic Opportunities**
 - Exploit confirmed areas of interest by public, private, and voluntary sector investors / sponsors / collaborators / partners for development, submission, and administration of high-potential project proposals
@@ -129,7 +129,7 @@ Provide coaching to directly support the goals of IPA and align with the role of
 #### **Staffing**
 - Initiate changes in IPA administrative structure that increase the capacity and capability of IPA to take advantage of opportunities presented by having a deeper presence on campus.
 - Develop hiring strategies and outline key points to include in draft descriptions for IPA / iAGRI administrative positions.
-- Establish connections with P2P Foundation founder, Michel Bauwens, and core team members as potential resources in searches for candidates with experience in innovative HICD models who could fill administrative positions within IPA, iAGRI, and future grant / contract funded programs.
+- Establish connections with [P2P Foundation](https://p2pfoundation.net/) core team members as potential resources in searches for candidates with experience in innovative HICD models who could fill administrative positions within IPA, iAGRI, and future grant / contract funded programs.
 
 #### **Institutional Change Strategy**
 Continue development and implementation of an organization design /institutional change strategy within IPA, CFAES, and OSU that parallels the “Conversations That Matter (CTM) - Ways That Work (WTW) - Changes That Sustain (CTS)” institutional change model applied by iAGRI at SUA and increases the potential for cross-institutional learning and adaptation among all participating entities.
@@ -137,8 +137,8 @@ Continue development and implementation of an organization design /institutional
 Establish an online communication forum (GAVNet) using the Slack platform so that participants can spawn a diverse range of “Conversations That Matter” about individual and collective experiences in the field of international development and lead to collaborative projects in the search for “Ways That Work” that can inform and drive “Changes That Sustain” within the formal systems of participating organizations and to better support IPA, overall, and iAGRI, in particular, as it enters its final full year of funding with the possibility for second phase funding.  
 The GAVNet platform facilitates the following activities:
  - Identify projects for products, services, infrastructure, and technologies that could appeal, commercially, within iAGRI's purview
-- Develop open source systems, processes, and tools that would have relevance in an iAGRI context both in terms of usefulness, but for students and faculty at SUA to be involved in their development and deployment
-- Enhance the reputation of IPA and expand the base of on-campus support for its programs, like iAGRI, as the administrative structure for the CFAES and the OSU continued to undergo significant changes in key personnel, roles and responsibilities, campus location, organizational centrality, and leadership respect.
+ - Develop open source systems, processes, and tools that would have relevance in an iAGRI context both in terms of usefulness, but for students and faculty at SUA to be involved in their development and deployment
+ - Enhance the reputation of IPA and expand the base of on-campus support for its programs, like iAGRI, as the administrative structure for the CFAES and the OSU continued to undergo significant changes in key personnel, roles and responsibilities, campus location, organizational centrality, and leadership respect.
 
 #### **Cross-Boundary Behaviors**
 - Connect IPA with key personnel from other departments, colleges, and offices across campus in the development of projects, systems, processes, tools, etc. that would play well in IPA venues and create opportunities for more campus-wide engagement in IPA initiatives.

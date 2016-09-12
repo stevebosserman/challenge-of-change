@@ -135,6 +135,7 @@ Provide coaching to directly support the goals of IPA and align with the role of
 Continue development and implementation of an organization design /institutional change strategy within IPA, CFAES, and OSU that parallels the “Conversations That Matter (CTM) - Ways That Work (WTW) - Changes That Sustain (CTS)” institutional change model applied by iAGRI at SUA and increases the potential for cross-institutional learning and adaptation among all participating entities.
 ##### **Communication Platform**
 Establish an online communication forum (GAVNet) using the Slack platform so that participants can spawn a diverse range of “Conversations That Matter” about individual and collective experiences in the field of international development and lead to collaborative projects in the search for “Ways That Work” that can inform and drive “Changes That Sustain” within the formal systems of participating organizations and to better support IPA, overall, and iAGRI, in particular, as it enters its final full year of funding with the possibility for second phase funding.  
+
 The GAVNet platform facilitates the following activities:
  - Identify projects for products, services, infrastructure, and technologies that could appeal, commercially, within iAGRI's purview
  - Develop open source systems, processes, and tools that would have relevance in an iAGRI context both in terms of usefulness, but for students and faculty at SUA to be involved in their development and deployment
@@ -156,20 +157,19 @@ The GAVNet platform facilitates the following activities:
 ## 6) Open Everything Example
 
 ### **Michigan Technology University**  
-[Pearce Research Group][26], Michigan Tech’s Lab in Open Sustainability Technology
+ - [Pearce Research Group][26], Michigan Tech’s Lab in Open Sustainability Technology
+ - **Joshua Pearce: [Bio][27] and [Book][28]**
 
-### **Joshua Pearce: [Bio][27] and [Book][28]**
+### **[Photovoltaic Characterization (PVC) Project 
+ - **[Portfolio][29]**
+ - **[Photo Voltaic Characterization Project Forum][30]**
 
-### **[Photovoltaic Characterization Project Portfolio][29]**
-### **[Photo Voltaic Characterization Project Forum][30]**
+### **[Open Design for E-VERY-THING Conference][32]**, 21-24Nov2016, Hong Kong
+ - [Democratizing Design in Scientific Innovation: Application of an Open Value Network to Open Source Hardware Design][31]
 
-### **[Democratizing Design in Scientific Innovation: Application of an Open Value Network to Open Source Hardware Design][31]**  
-
-### **[Open Design for E-VERY-THING Conference][32], 21-24Nov2016, Hong Kong**
-
-### **[Design Global, Manufacture Local][33] - Presentation at Peer Value: Advancing the Commons Collaborative Economy 02Sep2016**
-
-### **[European Conferences: Tiberius (Tibi) Brastaviceanu Travelogue][34]**
+### **Peer Value: Advancing the Commons Collaborative Economy 02Sep2016**
+ - [Design Global, Manufacture Local - Presentation][33] 
+ - [European Conferences: Tiberius (Tibi) Brastaviceanu Travelogue][34]
 
 [1]:	http://www.aplu.org/projects-and-initiatives/international-programs/challenge-of-change/FoodandNutritionOnePager.pdf "Commission Background"
 [2]:	http://www.aplu.org/projects-and-initiatives/international-programs/challenge-of-change/FoodandNutritionOnePager.pdf "About the 2050 Commission"

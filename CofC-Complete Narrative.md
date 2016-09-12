@@ -160,7 +160,7 @@ The GAVNet platform facilitates the following activities:
  - [Pearce Research Group][26], Michigan Tech’s Lab in Open Sustainability Technology
  - Joshua Pearce: [Bio][27] and [Book][28]
 
-### **[Photovoltaic Characterization (PVC) Project 
+### **Photovoltaic Characterization (PVC) Project 
  - [Portfolio][29]
  - [Photo Voltaic Characterization Project Forum][30]
 

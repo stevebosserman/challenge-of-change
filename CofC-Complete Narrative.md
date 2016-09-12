@@ -43,7 +43,7 @@ APLU has established a commission that will examine challenges to food security 
 
 ## **3) Enabling Environment for Access and Solutions (EEAS) - Reports**
 
-### **Grand Challenges: [Grand Challenges: Graphics and Presentation][15]**
+### **[Grand Challenges: Graphics and Presentation][15]**
 
 ### **[Grand Challenge: Communication Tools][16]**  
 ![][image-2]

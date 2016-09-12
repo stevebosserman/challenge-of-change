@@ -89,7 +89,7 @@ _Communications:_ Broker connections, post to social media, and develop presenta
 
 Develop communication objectives and identify the strategic orientation for International Programs in Agriculture (IPA) within the College of Food, Agricultural and Environmental Sciences (CFAES) at The Ohio State University (OSU) in relation to iAGRI project activities.
 
-_Training:_ Develop materials and co-deliver as needed workshops and experiential learning forums as part of leadership development, change management / institutional change, and Innovation Portfolio / solution development adoption
+_Training:_ Develop materials and co-deliver as needed workshops and experiential learning forums as part of leadership development, change management / institutional change, and Innovation Portfolio / solution development adoption.
 
 _Coaching:_ Provide targeted coaching sessions through phone / Skype calls, personal email, and face-to-face visits for members of SUA's administration and academic staff involved in leadership development and change management / institutional change, and innovators involved in the Innovation Portfolio and solution development.  
 
@@ -116,15 +116,15 @@ Provide coaching to directly support the goals of IPA and align with the role of
 
 ### **iAGRI Innovation Portfolio - Expanded**
 - Expand capability of iAGRI Innovation Portfolio by leveraging concurrent development of a “commercial innovation portfolio” that could handle proprietary and closed projects within a university setting where protection and licensure of intellectual property has a high priority.
-- Coordinate with [FABE](http://fabe.osu.edu/) administration to ensure OSU “partnership” in development of the platform and takes advantage of departmental experience with the iAGRI Innovation Portfolio through FABE-related projects posted to it and two administrative visits to the iAGRI office and SUA campus in Morogoro during FY2014 and FY2015
+- Coordinate with [FABE](http://fabe.osu.edu/) administration to ensure OSU “partnership” in development of the platform and takes advantage of departmental experience with the iAGRI Innovation Portfolio through FABE-related projects posted to it and two administrative visits to the iAGRI office and SUA campus in Morogoro during FY2014 and FY2015.
 - Expand capability of iAGRI Innovation Portfolio by leveraging concurrent development of an “open value network” approach as exemplified by the [SENSORICA Open Value Network (OVN)](http://www.sensorica.co/) - [ACES/CAKE](http://aces-cake.org/cake-english-homepage/), and the application of [Creative Commons](https://creativecommons.org/licenses/) licensure to the List of Projects that comprise the SENSORICA portfolio and honor the intent of the innovator in how to use project results.
 
 ### **[International Programs in Agriculture (IPA)](http://ipa.osu.edu/)**
 
 #### **Strategic Orientation / Strategic Opportunities**
-- Exploit confirmed areas of interest by public, private, and voluntary sector investors / sponsors / collaborators / partners for development, submission, and administration of high-potential project proposals
-- Establish “international programs” as a **trusted convening agent** among intra / intercollegiate and inter-institutional affiliates
-- Build faculty (college and university) capacity for internationalization
+- Exploit confirmed areas of interest by public, private, and voluntary sector investors / sponsors / collaborators / partners for development, submission, and administration of high-potential project proposals.
+- Establish “international programs” as a **trusted convening agent** among intra / intercollegiate and inter-institutional affiliates.
+- Build faculty (college and university) capacity for internationalization.
 
 #### **Staffing**
 - Initiate changes in IPA administrative structure that increase the capacity and capability of IPA to take advantage of opportunities presented by having a deeper presence on campus.
@@ -158,11 +158,11 @@ The GAVNet platform facilitates the following activities:
 
 ### **Michigan Technology University**  
  - [Pearce Research Group][26], Michigan Tech’s Lab in Open Sustainability Technology
- - **Joshua Pearce: [Bio][27] and [Book][28]**
+ - Joshua Pearce: [Bio][27] and [Book][28]
 
 ### **[Photovoltaic Characterization (PVC) Project 
- - **[Portfolio][29]**
- - **[Photo Voltaic Characterization Project Forum][30]**
+ - [Portfolio][29]
+ - [Photo Voltaic Characterization Project Forum][30]
 
 ### **[Open Design for E-VERY-THING Conference][32]**, 21-24Nov2016, Hong Kong
  - [Democratizing Design in Scientific Innovation: Application of an Open Value Network to Open Source Hardware Design][31]

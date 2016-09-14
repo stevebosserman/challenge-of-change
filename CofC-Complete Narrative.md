@@ -96,7 +96,7 @@ _Coaching:_ Provide targeted coaching sessions through phone / Skype calls, pers
 
 Provide coaching to directly support the goals of IPA and align with the role of the iAGRI Management Entity (ME) for iAGRI.
 
-### **iAGRI Project Profile**
+### **iAGRI Project Overview**
 ![][image-6]
 
 ![][image-7]

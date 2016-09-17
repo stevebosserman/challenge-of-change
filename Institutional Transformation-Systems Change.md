@@ -4,9 +4,9 @@
 
 ### Table of Contents
 * [Challenge of Change Commission](https://github.com/stevebosserman/challenge-of-change/blob/master/Institutional%20Transformation-Systems%20Change.md#challenge-of-change-commission)
-* [The “Challenge” in The Challenge of Change](https://github.com/stevebosserman/challenge-of-change/blob/master/Institutional%20Transformation-Systems%20Change.md#challenge-of-change-commission)
-* APLU Strategy for Change
-* We need not wait...
+* [The “Challenge” in The Challenge of Change](https://github.com/stevebosserman/challenge-of-change/blob/master/Institutional%20Transformation-Systems%20Change.md#the-challenge-in-the-challenge-of-change)
+* [APLU Strategy for Change](https://github.com/stevebosserman/challenge-of-change/blob/master/Institutional%20Transformation-Systems%20Change.md#aplu-strategy-for-change)
+* [We need not wait...]((https://github.com/stevebosserman/challenge-of-change/blob/master/Institutional%20Transformation-Systems%20Change.md#we-need-not-wait)
 
 ### [Challenge of Change Commission](http://www.aplu.org/projects-and-initiatives/international-programs/challenge-of-change/FoodandNutritionOnePager.pdf)
 > APLU has established a commission that will examine challenges to food security and make recommendations on the actions required by public research universities to meet global food needs by 2050. Historically, our public universities have been instrumental in solving agricultural challenges, but today’s food security issues are even more complex. These issues are multidimensional, crossing disciplinary & national borders, and solving them requires systems to change. Universities may be the only place where all relevant disciplines come together to address these complex, systemic issues.

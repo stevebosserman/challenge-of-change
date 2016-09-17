@@ -8,7 +8,7 @@
 * APLU Strategy for Change
 * We need not wait...
 
-### Challenge of Change Commission
+### [Challenge of Change Commission](http://www.aplu.org/projects-and-initiatives/international-programs/challenge-of-change/FoodandNutritionOnePager.pdf)
 > APLU has established a commission that will examine challenges to food security and make recommendations on the actions required by public research universities to meet global food needs by 2050. Historically, our public universities have been instrumental in solving agricultural challenges, but today’s food security issues are even more complex. These issues are multidimensional, crossing disciplinary & national borders, and solving them requires systems to change. Universities may be the only place where all relevant disciplines come together to address these complex, systemic issues.
 
 ### The “Challenge” in The Challenge of Change

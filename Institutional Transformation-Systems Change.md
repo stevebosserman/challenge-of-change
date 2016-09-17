@@ -34,7 +34,7 @@ Application of these **rules** would prompt the extensive use of platforms, apps
 
 ### APLU Strategy for Change
 Given the recalcitrance of the actors within the current food system to accept substantive change, external recommendations and seeking permission from them to truly “address challenges to food security” will likely fail. Instead, effective change will surface in the informal system as illustrated in the “theory of change” diagram below. The initial phase of the change strategy, then, would be to inspire myriad “conversations that matter”.
-![](Address%20Challenges%20to%20Food%20Security-1.jpg)
+![](Theory%20of%20Change-30.jpg)
 
 The views below (available as Google Slides at this [link](https://docs.google.com/presentation/d/1-FpPls6emY5HOpCcRX7SVW6H0wIc6xu9uDlkb-9aGo8)) present a [theory in practice](http://www.aplu.org/projects-and-initiatives/international-programs/knowledge-center-for-advancing-development-through-higher-education/knowledge-center-documents/iagri-a-model-of-change-presentation-file.pdf) for an APLU-brokered systems change / institutional transformation strategy.  The slides highlight communication, infrastructure, portfolio, and crowdfunding as interdependent steps that, when taken, have the potential to disrupt the dominant power structure and, in its stead, develop new pathways that enable people to meet their basic food needs regardless of locality.  The net effect, then, would be to reduce, if not eliminate, food insecurity worldwide.
 ![](Open%20Communication%20Channels.jpg)

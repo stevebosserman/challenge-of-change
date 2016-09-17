@@ -3,8 +3,8 @@
 ## The Challenge of Change: Engaging Public Universities in Feeding the World
 
 ### Table of Contents
-* Challenge of Change Commission
-* The “Challenge” in The Challenge of Change
+* [Challenge of Change Commission](https://github.com/stevebosserman/challenge-of-change/blob/master/Institutional%20Transformation-Systems%20Change.md#challenge-of-change-commission)
+* [The “Challenge” in The Challenge of Change](https://github.com/stevebosserman/challenge-of-change/blob/master/Institutional%20Transformation-Systems%20Change.md#challenge-of-change-commission)
 * APLU Strategy for Change
 * We need not wait...
 

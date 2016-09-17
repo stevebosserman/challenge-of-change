@@ -21,11 +21,11 @@ The landscape is further complicated through a deeply-entrenched resistance to c
 ![](Address%20Challenges%20to%20Food%20Security.jpg)
 
 The scope, scale, and complexity of this particular “challenge of change” impose certain "rules" or principles that drive expected behaviors within large systems change strategies. Examples include:
- 1. ["If you want to build change, you have to start everywhere at once." - Margaret Mead](#)(http://www.joe.org/joe/1996october/a1.php)
- 2. ["Systems change involves the lives of everyone in the system undergoing that change." p.13](#)(http://www.florida-rti.org/educatorresources/mtss_book_implcomp_012612.pdf)
- 3. ["Changing the organization one conversation at a time"](#)(http://www.groupjazz.com/documents/ODP-V45No2-Kimball.pdf)
- 4. ["For every complex problem there is an answer that is clear, simple and wrong.” - H.L. Mencken p.5](#)(http://www.oecd.org/officialdocuments/publicdisplaydocumentpdf/?cote=EDU/CERI/CD/RD(2013)10&docLanguage=En)
- 5. [Open everything, commons for all](#)(http://commonstransition.org/wp-content/uploads/2014/11/Commons-Transition_-Policy-Proposals-for-a-P2P-Foundation.pdf)  
+ 1. ["If you want to build change, you have to start everywhere at once." - Margaret Mead](http://www.joe.org/joe/1996october/a1.php)
+ 2. ["Systems change involves the lives of everyone in the system undergoing that change." p.13](http://www.florida-rti.org/educatorresources/mtss_book_implcomp_012612.pdf)
+ 3. ["Changing the organization one conversation at a time"](http://www.groupjazz.com/documents/ODP-V45No2-Kimball.pdf)
+ 4. ["For every complex problem there is an answer that is clear, simple and wrong.” - H.L. Mencken p.5](http://www.oecd.org/officialdocuments/publicdisplaydocumentpdf/?cote=EDU/CERI/CD/RD(2013)10&docLanguage=En)
+ 5. [Open everything, commons for all](http://commonstransition.org/wp-content/uploads/2014/11/Commons-Transition_-Policy-Proposals-for-a-P2P-Foundation.pdf)  
 
 Application of these **rules** would prompt the extensive use of platforms, apps, processes, and tools that encourage cross-boundary behaviors, attract individuals and groups from inside and outside universities, and lead to resources and support for food security projects and activities of mutual benefit for people, planet, and profit
 - [Crowdfunded Science Is Here. But Is It _Legit_ Science?](https://www.wired.com/2015/04/crowdfunded-science-legit-science/)
@@ -33,7 +33,7 @@ Application of these **rules** would prompt the extensive use of platforms, apps
 - [Top Sites for Crowdfunding Scientific Research](https://www.thebalance.com/top-sites-for-crowdfunding-scientific-research-985238) 
 
 ### APLU Strategy for Change
-Given the recalcitrance of the actors within the current food system to accept substantive change, external recommendations and seeking permission from them to truly “address challenges to food security” will likely fail. Instead, effective change will surface in the informal system as illustrated in the “theory of change” diagram below.  The initial phase of the change strategy, then, would be to inspire myriad “conversations that matter”.
+Given the recalcitrance of the actors within the current food system to accept substantive change, external recommendations and seeking permission from them to truly “address challenges to food security” will likely fail. Instead, effective change will surface in the informal system as illustrated in the “theory of change” diagram below. The initial phase of the change strategy, then, would be to inspire myriad “conversations that matter”.
 ![](Address%20Challenges%20to%20Food%20Security-1.jpg)
 
 The views below (available as Google Slides at this [link](https://docs.google.com/presentation/d/1-FpPls6emY5HOpCcRX7SVW6H0wIc6xu9uDlkb-9aGo8)) present a [theory in practice](http://www.aplu.org/projects-and-initiatives/international-programs/knowledge-center-for-advancing-development-through-higher-education/knowledge-center-documents/iagri-a-model-of-change-presentation-file.pdf) for an APLU-brokered systems change / institutional transformation strategy.  The slides highlight communication, infrastructure, portfolio, and crowdfunding as interdependent steps that, when taken, have the potential to disrupt the dominant power structure and, in its stead, develop new pathways that enable people to meet their basic food needs regardless of locality.  The net effect, then, would be to reduce, if not eliminate, food insecurity worldwide.

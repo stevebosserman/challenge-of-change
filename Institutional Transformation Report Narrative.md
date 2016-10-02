@@ -25,4 +25,4 @@ Digital infrastructure catalyzes these change processes by precipitating an exte
 6. Disseminate knowledge and know-how about ways that work more broadly through YouTube videos
 7. Encourage people to use their phones, wearables, implants on their person as well as devices, vehicles, buildings, etc. within the [Internet of Things (IoT)](https://en.m.wikipedia.org/wiki/Internet_of_things "internet of things") as proactive and powerful sensors that have the capacity to amplify and extend their voice, presence, and passion, influence actors / agents throughout food systems, and improve their circumstances with food security
 8. Charter projects / submit proposals for the further development of algorithms / machine learning / artificial intelligence to better convert data into information and knowledge
-9. Promote contests to develop games / virtual reality / [man-machine integration (MMI)](https://peerj.com/preprints/2402/ "The man-machine integration era")_
+9. Promote contests to develop games / virtual reality / [man-machine integration (MMI)](https://peerj.com/preprints/2402/ "The man-machine integration era")
